@@ -1,0 +1,6 @@
+google-generativeai
+Pypdfium2
+pillow
+numpy
+pandas
+gradio
